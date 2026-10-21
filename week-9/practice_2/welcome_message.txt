@@ -1,0 +1,2 @@
+Welcome to rust Programming
+Department of Computer Science

@@ -1,0 +1,4 @@
+Welcome to rust Programming
+Department of Computer Science
+Hello Class
+This is the appendage to the document
